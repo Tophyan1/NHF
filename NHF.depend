@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1541872042 source:d:\programok\nhf\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	"megjelenites.h"
+
+1541871615 d:\programok\nhf\megjelenites.h
+
+1541871647 source:d:\programok\nhf\megjelenites.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"megjelenites.h"
+

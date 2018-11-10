@@ -1,0 +1,10 @@
+75000	Richard Feynman
+50000	Stephen Hawking
+25000	Albert Einstein
+20000	Isaac Newton
+15000	Paul Dirac
+10000	Niels Bohr
+5000	Erwin Schrödinger
+2500	James Clerk Maxwell
+1000	Max Planck
+500	Ernest Rutherford
