@@ -1,10 +1,11 @@
+1961536480	ne
+1577248760	ne
+246000	ndslkcds
+234000	Én
+233000	smegma
+216500	hfv
+110000	Én
 75000	Richard Feynman
+59000	Mesi
+59000	dsafdfgjh
 50000	Stephen Hawking
-25000	Albert Einstein
-20000	Isaac Newton
-15000	Paul Dirac
-10000	Niels Bohr
-5000	Erwin Schr�dinger
-2500	James Clerk Maxwell
-1000	Max Planck
-500	Ernest Rutherford

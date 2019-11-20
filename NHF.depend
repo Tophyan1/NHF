@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1541872042 source:d:\programok\nhf\main.c
+1543172848 source:d:\programok\nhf\main.c
 	<SDL2/SDL.h>
 	<SDL2/SDL2_gfxPrimitives.h>
 	<SDL2/SDL_ttf.h>
@@ -9,10 +9,14 @@
 	<stdbool.h>
 	<stdio.h>
 	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
 
-1541871615 d:\programok\nhf\megjelenites.h
+1543176420 d:\programok\nhf\megjelenites.h
+	"jatek.h"
+	"lista.h"
 
-1541871647 source:d:\programok\nhf\megjelenites.c
+1543191007 source:d:\programok\nhf\megjelenites.c
 	<SDL2/SDL.h>
 	<SDL2/SDL2_gfxPrimitives.h>
 	<SDL2/SDL_ttf.h>
@@ -22,4 +26,102 @@
 	<string.h>
 	<stdbool.h>
 	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
+
+1543176423 d:\programok\nhf\jatek.h
+	"lista.h"
+	"megjelenites.h"
+
+1543176930 source:d:\programok\nhf\jatek.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
+
+1543176418 d:\programok\nhf\lista.h
+	"jatek.h"
+
+1543085124 source:d:\programok\nhf\lista.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
+
+1543176930 source:d:\programok\c++\nhf\jatek.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
+
+1543176420 d:\programok\c++\nhf\megjelenites.h
+	"jatek.h"
+	"lista.h"
+
+1543176423 d:\programok\c++\nhf\jatek.h
+	"lista.h"
+	"megjelenites.h"
+
+1543176418 d:\programok\c++\nhf\lista.h
+	"jatek.h"
+
+1543085124 source:d:\programok\c++\nhf\lista.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
+
+1543172848 source:d:\programok\c++\nhf\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
+
+1543191007 source:d:\programok\c++\nhf\megjelenites.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_ttf.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"megjelenites.h"
+	"jatek.h"
+	"lista.h"
 
